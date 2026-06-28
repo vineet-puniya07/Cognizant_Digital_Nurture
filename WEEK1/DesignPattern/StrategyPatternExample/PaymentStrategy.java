@@ -1,4 +1,5 @@
 package StrategyPatternExample;
 
-public class PaymentStrategy {
+public interface PaymentStrategy {
+    void pay(double amount);
 }

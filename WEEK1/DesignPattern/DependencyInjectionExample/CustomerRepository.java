@@ -1,4 +1,6 @@
 package DependencyInjectionExample;
 
-public class CustomerRepository {
+public interface CustomerRepository {
+
+    String findCustomerById(int id);
 }
