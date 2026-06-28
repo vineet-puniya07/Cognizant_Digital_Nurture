@@ -1,0 +1,4 @@
+package CommandPatternExample;
+
+public class Command {
+}

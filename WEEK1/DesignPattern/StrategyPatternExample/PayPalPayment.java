@@ -1,0 +1,4 @@
+package StrategyPatternExample;
+
+public class PayPalPayment {
+}
